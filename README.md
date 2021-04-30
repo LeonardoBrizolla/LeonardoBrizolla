@@ -9,6 +9,7 @@
 - 📫 How to reach me **leonardobrizollars@gmail.com**
 
 <p align="center">
+<a href="https://linkedin.com/in/leonardo-brizolla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardobrizolla" height="20" width="20" /></a>
 <a href="https://instagram.com/leobrizaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonardobrizolla" height="20" width="20" /></a>
 </p>
 
