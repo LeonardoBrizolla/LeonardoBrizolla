@@ -2,8 +2,6 @@
 <h3 align="center">Jr. full stack developer | Passionate about the JS ecosystem | student at @Rocketseat 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobrizolla" alt="leonardobrizolla" /> </p>
 
-- 🔭 I’m currently working on [e-tab](https://e-tab.com.br)
-
 <!-- - 👨‍💻 All of my projects are available at [name](https://name.net.br) -->
 
 - 📫 How to reach me **leonardobrizollars@gmail.com**
