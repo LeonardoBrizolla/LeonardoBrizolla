@@ -1,5 +1,5 @@
-<h1 align="center">Hi dear 👋, I'm Leonardo Brizolla</h1>
-<h3 align="center">Jr. full stack developer | Passionate about the JS ecosystem | student at @Rocketseat 🚀</h3>
+<h1 align="center">Olá pessoal 👋, Eu sou o Leonardo Brizolla</h1>
+<h3 align="center">Desenvolvedor React Native</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobrizolla" alt="leonardobrizolla" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [name](https://name.net.br) -->
