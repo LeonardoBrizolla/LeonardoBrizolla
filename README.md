@@ -8,6 +8,21 @@
   Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como, React Native, ReactJS e NodeJS.
 
   Tenho competências relacionadas com aplicações móveis React Native.
+  
+  Hard Skills:
+
+  Linguagens: JavaScript, TypeScript, HTML, CSS
+  Frameworks: React, React Native
+  Sistema controle de versão: GIT
+  Metodología Ágil: Scrum, Kanban
+  Sistema Operacional: MacOS, Windows
+
+  Soft Skills:
+
+  Resolver problemas
+  Trabalho em equipe
+  Proatividade
+  
   </br>
   
   <img src="https://komarev.com/ghpvc/?username=leonardobrizolla" alt="leonardobrizolla" /> 
