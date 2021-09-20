@@ -1,6 +1,16 @@
 <h1 align="center">Olá pessoal 👋, Eu sou o Leonardo Brizolla</h1>
 <h3 align="center">Desenvolvedor React Native</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobrizolla" alt="leonardobrizolla" /> </p>
+<p align="left">
+  Sou um criador que tem um espírito de produto de alta qualidade.
+
+  Gosto de trabalhar em equipa porque me dá a oportunidade de ganhar perspectivas diferentes do meu trabalho e de aprender sobre coisas novas.
+
+  Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como, React Native, ReactJS e NodeJS.
+
+  Tenho competências relacionadas com aplicações móveis React Native.
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=leonardobrizolla" alt="leonardobrizolla" /> 
+</p>
 
 <!-- - 👨‍💻 All of my projects are available at [name](https://name.net.br) -->
 
