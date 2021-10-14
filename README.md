@@ -7,7 +7,6 @@ Gosto de trabalhar em equipe porque me dá a oportunidade de ganhar perspectivas
 
 Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como, React Native, ReactJS e NodeJS.
 
-Tenho competências relacionadas com aplicações móveis React Native.
 </p>
 
 
