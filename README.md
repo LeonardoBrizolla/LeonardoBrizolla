@@ -1,19 +1,20 @@
 <h1 align="center">Olá pessoal 👋, Eu sou o Leonardo Brizolla</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 <p align="left">
 Sou um criador que tem um espírito de produto de alta qualidade.
 
 Gosto de trabalhar em equipe porque me dá a oportunidade de ganhar perspectivas diferentes do meu trabalho e de aprender sobre coisas novas.
 
-Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como, React Native, ReactJS e NodeJS.
+Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como, ReactJS, NodeJS e React Native.
 
 </p>
 
 
 ## Hard Skills
 
-- **Linguagens:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, React Native
+- **Linguagens:** JavaScript (JS), TypeScript (TS)
+- **Libs:** React, Shandcn.ui, Zod, Knex
+- **Frameworks:** NextJS, Fastfy
 - **Sistema controle de versão:** GIT
 - **Metodología Ágil:** Scrum, Kanban
 - **Sistema Operacional:** MacOS, Linux, Windows
@@ -21,8 +22,11 @@ Sou apaixonado por todas as tecnologias relacionadas com o Javascript, tais como
 ## Soft Skills
 
 - Resolver problemas
-- Trabalho em equipe
+- Trabalho em equipe, ajudando a tornar os otros ao meu rodar melhores
 - Proatividade
+- Senso de propriedade e responsabilidade
+- Impulso e motivação para melhorar
+
 
 <br/>
 
