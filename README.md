@@ -1,5 +1,5 @@
 <h1 align="center">Olá pessoal 👋, Eu sou o Leonardo Brizolla</h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 <p align="left">
 Sou um criador que tem um espírito de produto de alta qualidade.
 
